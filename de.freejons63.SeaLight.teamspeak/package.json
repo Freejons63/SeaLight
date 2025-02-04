@@ -5,6 +5,11 @@
   "identifier": "de.freejons63.SeaLight.teamspeak",
   "engines": {
     "teamspeak": 1
+  },
+	"repository": {
+		"url": "https://github.com/LeonMarcel-HD/Colorful-TeamSpeak",
+		"type": "git",
+    "directory": "Colorful-TeamSpeak"
 	},
   "image": "Thumbnailrot.png",
   "license": "MIT",
