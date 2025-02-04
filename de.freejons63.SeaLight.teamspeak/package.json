@@ -7,7 +7,7 @@
     "teamspeak": 1
   },
 	"repository": {
-		"url": "https://github.com/de.freejons63.SeaLight.teamspeak",
+		"url": "https://github.com/Freejons63/SeaLight",
 		"type": "git",
     "directory": "SeaLight"
 	},
