@@ -1,0 +1,32 @@
+{
+  "name": "SeaLight",
+  "description": "SeaLight von Freejons63",
+  "version": "1.0.0",
+  "identifier": "de.freejons.sealight.teamspeak",
+  "engines": {
+      "teamspeak": 1
+  },
+  "repository": {
+      "url": "https://github.com/bestDudeEver/themes/",
+      "directory": "purple",
+      "type": "git"
+  },
+  "image": "Thumbnailrot.png",
+  "license": "MIT",
+  "author": {
+      "name": "Freejons63",
+      "email": "joe@example.net",
+      "url": "https://example.net",
+      "userTag": "TeamSpeak@myteamspeak.com"
+  },
+  "content": {
+      "themes": [
+          {
+              "name": "SeaLight",
+              "source": "SeaLight.css",
+              "image": "SeaLightTS6.png",
+              "apiVersion": 1
+          }
+      ]
+  }
+}
