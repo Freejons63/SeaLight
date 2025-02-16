@@ -22,7 +22,7 @@
       "themes": [
           {
               "name": "SeaLight",
-              "source": "SeaLight.css",
+              "source": "SeaLightDarkMode.css",
               "image": "SeaLightTS6.png",
               "apiVersion": 1
           }
