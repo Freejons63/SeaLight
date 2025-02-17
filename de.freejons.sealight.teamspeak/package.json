@@ -1,0 +1,43 @@
+{
+  "name": "SeaLight",
+  "description": "SeaLight by Freejons63",
+  "version": "1.0.0",
+  "identifier": "de.freejons.sealight.teamspeak",
+  "engines": {
+      "teamspeak": 1
+  },
+  "repository": {
+      "url": "https://github.com/Freejons63/SeaLight/",
+      "directory": "SeaLight",
+      "type": "git"
+  },
+  "image": "SeaLightThumbnail.png",
+  "license": "MIT",
+  "author": {
+      "name": "Freejons63",
+      "url": "https://community.teamspeak.com/u/Freejons63",
+      "userTag": "Freejons63@myteamspeak.com"
+  },
+  "content": {
+      "themes": [
+          {
+              "name": "SeaLight DarkMode",
+              "source": "SeaLight.css",
+              "image": "SeaLight01.png",
+              "apiVersion": 1
+          },
+          {
+              "name": "SeaLight DarkMode ClanCrest 01",
+              "source": "SeaLight02.css",
+              "image": "SeaLight02.png",
+              "apiVersion": 1
+          },
+          {
+              "name": "SeaLight DarkMode ClanCrest 02",
+              "source": "SeaLight03.css",
+              "image": "SeaLight03.png",
+              "apiVersion": 1
+          }
+      ]
+  }
+}
