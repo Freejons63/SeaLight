@@ -6,7 +6,7 @@
 <h3>How to install manually</h3>
 
 - Download the latest release from <a href="https://github.com/Freejons63/SeaLight/archive/refs/heads/main.zip">here </a> 
-- extract and put the "de.wargamer.anime.teamspeak" folder in
+- extract and put the "de.freejons.sealight.teamspeak" folder in
 
   - <b>Windows:</b> <i> %appdata%\TeamSpeak\Default\extensions </i>
 
