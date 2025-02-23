@@ -1,5 +1,5 @@
 # SeaLight - Dark Mode
-## **TeamSpeak 6 Theme (Erweiterung)**
+## **TeamSpeak 6 Theme (Extension)**
 
 
 <br> <br>  
