@@ -15,4 +15,4 @@
   - <b>Linux:</b> <i> ~/.config/TeamSpeak/Default/extensions </i>
 
 
-- After successfully Downloading and Placing the folder in the Directory, go in TeamSpeak to <br> <i>Settings > Apperance</i>  and activated the option <i>User Themes</i>
+- After successfully Downloading and Placing the folder in the Directory extensions, go in TeamSpeak to <br> <i>Settings > Apperance</i>  and activated the option <i>User Themes</i>
