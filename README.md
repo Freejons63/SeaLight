@@ -15,4 +15,7 @@
   - <b>Linux:</b> <i> ~/.config/TeamSpeak/Default/extensions </i>
 
 
-- After successfully Downloading and Placing the folder in the Directory extensions, go in TeamSpeak to <br> <i>Settings > Apperance</i>  and activated the option <i>User Themes</i>
+- After successfully Downloading, Placing the folder in the Directory extensions, go in TeamSpeak to <br> <i>Settings > Apperance</i>  and activated the option <i>User Themes</i>
+
+- After successfully downloading, placing the folder in the Directory (extensions), go to TeamSpeak on <br> 
+<i>Settings > Appearance</i> and activate the option <i>User Themes</i> > left click on the <i>folder symbol</i> under <i>User Themes</i>  > here under Directory (extensions) > place the folder (de.freejons.sealight.teamspeak)
