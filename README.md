@@ -1,3 +1,22 @@
+:icons: font
+
+ifdef::env-github[]
+:tip-caption: :bulb:
+:warning-caption: :warning:
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :information_source:
+endif::[]
+
+ifdef::env-github,safe-mode-secure[]
+toc::[]
+endif::[]
+
+ifdef::env-github[]
+:imagesdir: https://
+endif::[]
+
+
 # ***SeaLight - Dark Mode***
 ## **TeamSpeak 6 Theme (Extension)**
 
