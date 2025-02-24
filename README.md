@@ -10,8 +10,8 @@
 <img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLight02.png" width="40%" height="40%">
 <h2>SeaLight03</h2>
 <img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLight03.png" width="40%" height="40%"><hr>
-</div> 
-<h3>How to install</h3>
+ </div>
+  <h2>How to install</h2>
 
 - Download the latest release from <a href="https://github.com/Freejons63/SeaLight/archive/refs/heads/main.zip">here </a> 
 - extract SeaLight-main.zip and put the "de.freejons.sealight.teamspeak" folder in extensions >
