@@ -1,25 +1,6 @@
-:icons: font
-
-ifdef::env-github[]
-:tip-caption: :bulb:
-:warning-caption: :warning:
-:caution-caption: :fire:
-:important-caption: :exclamation:
-:note-caption: :information_source:
-endif::[]
-
-ifdef::env-github,safe-mode-secure[]
-toc::[]
-endif::[]
-
-ifdef::env-github[]
-:imagesdir: https://
-endif::[]
-
-
 # ***SeaLight - Dark Mode***
 ## **TeamSpeak 6 Theme (Extension)**
-
+<img src="https://user-images.githubusercontent.com/77844672/185554262-1a36507a-0219-4299-9bbc-cdfff4a79517.png" width="27%" height="27%">
 
 <br> <br>  
 <h3>How to install</h3>
