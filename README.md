@@ -1,6 +1,8 @@
 # ***SeaLight - Dark Mode***
 ## **TeamSpeak 6 Theme (Extension)**
-<img src="https://user-images.githubusercontent.com/77844672/185554262-1a36507a-0219-4299-9bbc-cdfff4a79517.png" width="27%" height="27%">
+<img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLightThumbnail.png" width="47%" height="47%">
+
+<img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLightThumbnail.png" width="32%" height="32%"><img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLightThumbnail.png" width="32%" height="32%"><img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLightThumbnail.png" width="32%" height="32%">
 
 <br> <br>  
 <h3>How to install</h3>
