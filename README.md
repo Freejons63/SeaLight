@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLightThumbnail.png" width="47%" height="47%">
 
-<img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLight01.png" width="32%" height="32%"><img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLightThumbnail.png" width="32%" height="32%"><img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLightThumbnail.png" width="32%" height="32%">
+<img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLight01.png" width="32%" height="32%"><img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLight02.png" width="32%" height="32%"><img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLightThumbnail.png" width="32%" height="32%">
 </div>
 <br> <br>  
 <h3>How to install</h3>
