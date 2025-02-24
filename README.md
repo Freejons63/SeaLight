@@ -4,7 +4,9 @@
 <img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLightThumbnail.png" width="50%" height="50%">
 
 <img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLight01.png" width="50%" height="50%">
+
 <img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLight02.png" width="50%" height="50%">
+
 <img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLight03.png" width="50%" height="50%">
 </div>
 <br> <br>  
