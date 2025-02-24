@@ -9,7 +9,7 @@
 <h2>SeaLight DarkMode ClanCrest 01</h2>
 <img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLight02.png" width="40%" height="40%">
 <h2>SeaLight DarkMode ClanCrest 02</h2>
-<img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLight03.png" width="40%" height="40%"><hr>
+<img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLight03.png" width="40%" height="40%">
  </div>
   <h2>How to install</h2>
 
