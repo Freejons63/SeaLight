@@ -21,5 +21,6 @@
 <h2>Insert your picture</h2>
 
 - You need an image in png format with min.100px - max.200px (recommended 150px)
-- change the file name to main-image
-- and add or overwrite the main-image in the folder (de.freejons.sealight.teamspeak) under (extension)
+- change the file name to <i>main-image</i>
+- and add or overwrite the <i>main-image</i> in the folder (de.freejons.sealight.teamspeak) under (extension)
+- <i>aktuellsiere</i> oder <i>Restart TeamSpeak</i>
