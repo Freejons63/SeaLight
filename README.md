@@ -21,3 +21,4 @@
 <h2>Insert your picture</h2>
 
 - You need an image in png format with min.100px - max.200px (recommended 150px)
+- change the file name to main-image
