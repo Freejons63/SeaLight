@@ -9,7 +9,7 @@
 .tsv-sidebar .tsv-body-background {
     background: linear-gradient(to bottom, var(--ts-new-header-bg), var(--tsv-side-bar-bg-gradient-bottom)) !important;
     background-image: url(),
-                      url(Clan-crest.png) !important;
+                      url(main-image.png) !important;
     background-repeat: no-repeat!important;
     background-position: 50% 96% !important;
   }
