@@ -18,3 +18,6 @@
 
 - To do this, go to TeamSpeak on <i>Settings > Appearance</i> <br> and activate the option <i>User Themes</i> >  left click on the <i>folder symbol</i> under <i>User Themes</i> >  here under Directory (extensions) > <br> place the folder (de.freejons.sealight.teamspeak) >  <i>Restart TeamSpeak</i>
 <hr>
+<h2>Insert your picture</h2>
+
+- You need an image in png format with min.100px - max.200px (recommended 150px)
