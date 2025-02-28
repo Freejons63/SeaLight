@@ -22,3 +22,4 @@
 
 - You need an image in png format with min.100px - max.200px (recommended 150px)
 - change the file name to main-image
+- and add or overwrite the main-image in the folder (de.freejons.sealight.teamspeak) under (extension)
