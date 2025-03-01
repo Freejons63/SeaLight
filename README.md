@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://github.com/Freejons63/SeaLight/blob/c1e4574cbbd41f920e6d71d89c5f8a9268693e0c/Pictures/titel-1.png" width="100%" height="40%">
+<img src="https://github.com/Freejons63/SeaLight/blob/c1e4574cbbd41f920e6d71d89c5f8a9268693e0c/Pictures/titel-1.png" width="100%" height="100%">
 <h2>TeamSpeak 6 - Theme (Extension)</h2>
 <h1> SeaLight - Dark Mode</h1>
 <img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLight01.png" width="100%" height="100%">
