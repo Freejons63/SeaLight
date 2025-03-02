@@ -12,7 +12,7 @@
 <h1>SeaLight DarkMode ClanCrest 02 (center)</h1>
 <img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLight03.png" width="100%" height="100%">
  </div>
-  <h1>How to install</h1>
+  <div align="center"><h1>How to install</h1></div>
 
 - ### Download the latest release from <a href="https://github.com/user-attachments/files/19040992/SeaLight-main_ExtractMeIntoExtensionsFolder.zip">here </a>
 - extract SeaLight-main.zip and put the "de.freejons.sealight.teamspeak" folder in extensions >
@@ -20,7 +20,7 @@
 - To do this, go to TeamSpeak on <i>Settings > Appearance</i>  and activate the option <i>User Themes</i> > <br> left click on the <i>folder symbol</i> under <i>User Themes</i> >  here under Directory (extensions) > place the folder (de.freejons.sealight.teamspeak) > <br> <i>Restart TeamSpeak</i>
 - ### Configuration - TeamSpeak Client - Default Theme on Dark
 <hr>
-<h1>Insert your picture (Description)</h1>
+<div align="center"><h1>Insert your picture (Description)</h1></div>
 
 - **You need an image in png** > format with min.100px - max.200px (recommended 150px)
 - change the file name to <i>main-image</i>
