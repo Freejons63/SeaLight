@@ -22,7 +22,7 @@
 <hr>
 <h1>Insert your picture (Description)</h1>
 
-- You need an image in png format with min.100px - max.200px (recommended 150px)
+- **You need an image in png** > format with min.100px - max.200px (recommended 150px)
 - change the file name to <i>main-image</i>
 - and add or overwrite the <i>main-image</i> in the folder (de.freejons.sealight.teamspeak) under (extension)
 - <i>update</i> or <i>Restart TeamSpeak</i>
