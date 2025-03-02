@@ -5,8 +5,10 @@
 <h2>TeamSpeak 6 - Theme (Extension)</h2>
 <h1>SeaLight - Dark Mode</h1>
 <img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLight01.png" width="100%" height="100%">
+<a href="https://github.com/Freejons63/SeaLight/tree/main#how-to-install">How to install </a>
 <h1>SeaLight DarkMode ClanCrest 01 (left)</h1>
 <img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLight02.png" width="100%" height="100%">
+<a href="https://github.com/Freejons63/SeaLight/tree/main#how-to-install">How to install </a>
 <h1>SeaLight DarkMode ClanCrest 02 (center)</h1>
 <img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLight03.png" width="100%" height="100%">
  </div>
