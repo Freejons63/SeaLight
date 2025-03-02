@@ -11,7 +11,7 @@
 <a href="https://github.com/Freejons63/SeaLight/tree/main#how-to-install">How to install </a>
 <h1>SeaLight DarkMode ClanCrest 02 (center)</h1>
 <img src="https://github.com/Freejons63/SeaLight/blob/main/de.freejons.sealight.teamspeak/SeaLight03.png" width="100%" height="100%">
- </div>
+ </div><hr>
   <div align="center"><h1>How to install</h1></div>
 
 - ### Download the latest release from <a href="https://github.com/user-attachments/files/19040992/SeaLight-main_ExtractMeIntoExtensionsFolder.zip">here </a>
