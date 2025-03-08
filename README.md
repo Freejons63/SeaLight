@@ -14,7 +14,7 @@
  </div><hr>
   <div align="center"><h1>How to install</h1></div>
 
-- ### Download the latest release from <a href="https://github.com/user-attachments/files/19045298/SeaLight-main.zip">here </a>
+- ### Download the latest release from <a href="https://github.com/user-attachments/files/19139735/SeaLight-main.zip">here </a>
 - extract SeaLight-main.zip and put the "de.freejons.sealight.teamspeak" folder in extensions >
 
 - To do this, go to TeamSpeak on <i>Settings > Appearance</i>  and activate the option <i>User Themes</i> > <br> left click on the <i>folder symbol</i> under <i>User Themes</i> >  here under Directory (extensions) > place the folder (de.freejons.sealight.teamspeak) > <br> <i>Restart TeamSpeak</i>
